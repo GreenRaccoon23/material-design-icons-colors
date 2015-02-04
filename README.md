@@ -1,5 +1,6 @@
 ## material-design-icons-colors
 ####Google's material design icons for Android 5.0 Lollipop, colored with the material design color scheme
+Original icons: [https://github.com/google/material-design-icons](https://github.com/google/material-design-icons)
 `git clone https://github.com/GreenRaccoon23/material-design-icons-colors.git`
 * red: #F44336  
 ![red](https://github.com/GreenRaccoon23/material-design-icons-colors/blob/master/red%23F44336/ic_android_48px.png)  
